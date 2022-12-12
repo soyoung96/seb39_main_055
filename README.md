@@ -65,7 +65,7 @@
 ## 📜 DB ERD
 
 <p>
-  <img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a71387e-e78e-4669-a59a-731799c8fdfe/Untitled.png" width=90%>
+  <img src="https://user-images.githubusercontent.com/61177857/207084010-59603166-b30b-4dff-aebd-1a2f7ac891a5.png" width=90%>
 </p>
 
 
